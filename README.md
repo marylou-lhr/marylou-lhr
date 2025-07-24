@@ -1,15 +1,14 @@
-<h2>👋 I am a french student in my 3rd year of computer science</h2>
-<h3>✨ My dream is to become a web developer and/or a webdesigner </h3>
-- 🎓 Languages I know best : JavaScript, CSS, HTML, C++ <br>
-- 🌱 What I'm learning on the side : Webdesign, Astro, Tailwind CSS<br>
+<h2>👋 I am a french student in my 3rd year of computer science and web developer for the summer!</h2>
+<h3>🎓 Languages I know best : JavaScript, CSS, HTML, C++</h3>
+<h3>🌱 What I'm learning on the side : Webdesign, Astro, Tailwind CSS, ReactJS, MongoDB</h3>
 <br>
 
 <h3>Socials</h3>
 <div> <a href="https://www.linkedin.com/in/marylou-lohier" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/marylou-lhr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://github.com/marylou-lhr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>(this page!)
 </div>
 
-<h3 align="left">Languages and Tools I studied/am studying:</h3>
+<h3 align="left">Languages and Tools I have studied/am studying:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -35,6 +34,7 @@
 <h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marylou-lhr&hide_progress=true&theme=default"/>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marylou-lhr&theme=buefy" height="180em"/>
+(I have a repo with the language Hack for some reason...)
 
 <h3>Credits</h3>
-Made this README with : <a href="https://git-readme-generator.vercel.app/">Awesome Github Readme Generator</a>
+Made this README with the help of : <a href="https://git-readme-generator.vercel.app/">Awesome Github Readme Generator</a>
