@@ -1,11 +1,11 @@
-<h2>👋 I am a french student in my 3rd year of computer science and web developer for the summer!</h2>
+<h2>👋 I am a french student in my 3rd year of computer science and web developer</h2>
 <h3>🎓 Languages I know best : JavaScript, CSS, HTML, C++</h3>
 <h3>🌱 What I'm learning on the side : Webdesign, Astro, Tailwind CSS, ReactJS, MongoDB</h3>
 <br>
 
 <h3>Socials</h3>
 <div> <a href="https://www.linkedin.com/in/marylou-lohier" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/marylou-lhr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>(this page!)
+<a href="https://github.com/marylou-lhr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 <h3 align="left">Languages and Tools I have studied/am studying:</h3>
